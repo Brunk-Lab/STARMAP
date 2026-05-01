@@ -1,0 +1,61 @@
+STARMAP Academic Use License
+(Non-Commercial, Attribution-Required, No Commercial Use Without Explicit Permission)
+
+Copyright (c) 2026 Kriti Shukla, Elizabeth Brunk, and the Brunk Lab (University of North Carolina at Chapel Hill)
+
+1. Grant of License (Non-Commercial Academic Use Only)
+
+Permission is hereby granted, free of charge, to individuals and non-profit academic or research institutions to use, copy, modify, and distribute this software and associated documentation files (the “Software”) solely for non-commercial research and educational purposes, without the need for prior written permission.
+
+2. Strict Prohibition of Commercial Use Without Explicit Permission
+
+Any use of the Software by a for-profit entity, or for any commercial purpose, is strictly prohibited without prior written permission from the copyright holders.
+
+Commercial use includes, but is not limited to:
+(a) any use by a for-profit company, startup, contract research organization, or industry-affiliated entity;
+(b) use within collaborations, sponsored research agreements, or partnerships involving a for-profit entity;
+(c) use in drug discovery, therapeutic development, diagnostics, clinical decision-making, or internal R&D pipelines within a commercial organization;
+(d) use that contributes to revenue generation, intellectual property development, patent filings, or business strategy;
+(e) use in benchmarking, evaluation, or development of proprietary models, platforms, or competing technologies.
+
+No implied license is granted for commercial use under any circumstance.
+
+3. Mandatory Attribution and Citation
+
+All users must provide clear and visible attribution in any publication, presentation, dataset, or distributed work that uses or derives from the Software.
+
+Attribution must include:
+(i) citation of the following work:
+[Insert manuscript citation or preprint here]
+and
+(ii) a link to the Software repository.
+
+Failure to provide attribution constitutes a violation of this license.
+
+4. Notification of Use (Recommended for Academic Users)
+
+Academic users are strongly encouraged to notify the authors of use of the Software, particularly for published work, to facilitate tracking of impact and collaboration opportunities.
+
+5. Redistribution and Modifications
+
+Redistributions of the Software, whether modified or unmodified, must:
+(a) include this license in full;
+(b) retain all copyright notices;
+(c) clearly indicate any modifications made.
+
+6. No Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+7. Termination
+
+Any use of the Software in violation of this license will automatically terminate the rights granted herein. Upon termination, all use must immediately cease.
+
+Commercial Licensing and Permissions
+
+For any commercial use, including industry collaborations or internal company research, explicit written permission must be obtained from the authors.
+
+Contact:
+Kriti Shukla
+Elizabeth Brunk
+Brunk Lab (University of North Carolina at Chapel Hill)

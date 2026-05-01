@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "starmap"
+version = "0.2.0"
+description = "Installable STARMAP pipeline for NMF flatmaps, Gi*, drug ML, log-odds, Perturb-seq, and Tahoe analyses."
+readme = "README.md"
+requires-python = ">=3.10"
+license = {text = "Custom restricted use; see GitHub repository."}
+authors = [{name = "Kriti Shukla"}]
+dependencies = [
+  "numpy",
+  "pandas",
+  "scipy",
+  "scikit-learn",
+  "joblib",
+  "biopython",
+  "requests",
+  "pyarrow",
+]
+
+[project.optional-dependencies]
+ml = ["torch", "skorch"]
+gistar = ["geopandas", "shapely", "libpysal", "esda"]
+perturbseq = ["scanpy", "gseapy"]
+plot = ["matplotlib", "seaborn"]
+all = ["torch", "skorch", "geopandas", "shapely", "libpysal", "esda", "scanpy", "gseapy", "matplotlib", "seaborn"]
+
+[project.scripts]
+starmap = "starmap.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
